@@ -1,6 +1,6 @@
 ---
 title: Inicio
-body_classes: title-center title-h1h2
+body_classes: 'title-center title-h1h2'
 ---
 
 # Ultima Trinchera
