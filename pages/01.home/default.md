@@ -33,4 +33,8 @@ body_classes: 'title-center title-h1h2'
     	display: none;  
     }
     
+    #toggle {
+     display: none;
+    }
+    
 </style>
