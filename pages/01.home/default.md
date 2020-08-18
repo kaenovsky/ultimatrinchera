@@ -3,15 +3,12 @@ title: Inicio
 body_classes: 'title-center title-h1h2'
 ---
 
-# Taberna Odin Live
-## La meca del metal
-
 <div style="display: flex; align-items: center; justify-content: center;">
-<iframe src="https://server.ultimatrinchera.com/public/ultima_trinchera/embed" frameborder="0" allowtransparency="false" style="width: 400px; min-height: 150px; border: 0;"></iframe>
+	<img src="https://i.imgur.com/4mFQXhZ.jpg" style="max-width: 320px margin-bottom: 10px">
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-	<img src="https://i.imgur.com/4mFQXhZ.jpg" style="max-width: 350px">
+<iframe src="https://server.ultimatrinchera.com/public/ultima_trinchera/embed" frameborder="0" allowtransparency="false" style="width: 400px; min-height: 150px; border: 0;"></iframe>
 </div>
 
 <style>
