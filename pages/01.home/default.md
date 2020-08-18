@@ -24,7 +24,7 @@ body_classes: 'title-center title-h1h2'
     	color: #FFF;
     }
     
-    h1, h2 {
+    h1, h2, h3, h4 {
     	color: #FFF;
     }
     
