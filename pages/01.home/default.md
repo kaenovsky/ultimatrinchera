@@ -5,7 +5,7 @@ rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Air
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
-	<img src="https://i.imgur.com/4mFQXhZ.jpg" style="max-width: 320px; margin-bottom: 30px;">
+	<img src="https://i.imgur.com/4mFQXhZ.jpg" style="max-width: 270px; margin-bottom: 15px;">
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center;">
