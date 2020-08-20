@@ -15,7 +15,7 @@ rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Air
 <div class="redes">
     <a href="https://www.facebook.com/tabernaodinlive" target="_blank"><img src="https://i.imgur.com/fEIKr5v.png"></a>
     <a href="https://www.instagram.com/tabernaodinlive" target="_blank"><img src="https://i.imgur.com/XIxtUlC.png"></a>
-    <a href="#" target="_blank"><img src="https://i.imgur.com/kL3IO45.png"></a>
+    <a href="https://www.youtube.com/playlist?list=PL-Zj37MYV3-xq_yFmb21Bbb2TrZCpJLDb" target="_blank"><img src="https://i.imgur.com/kL3IO45.png"></a>
    <a href="hhttps://open.spotify.com/playlist/3RQs6UYk9z7FmikNHRCRNF?si=JluJd4FESxiq6n65Cun1NA" target="_blank"><img src="https://i.imgur.com/8Bj4Fin.png"></a>
 </div>
 
