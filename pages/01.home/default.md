@@ -41,8 +41,8 @@ rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Air
     }
     
     .redes img {
-    	width: 40px;
-        margin: 14px;
+    	width: 24px;
+        margin: 0 10px;
     }
     
     #footer, #header {
