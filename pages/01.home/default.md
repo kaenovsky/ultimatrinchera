@@ -5,7 +5,7 @@ rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Air
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
-	<img src="https://i.imgur.com/4mFQXhZ.jpg" style="max-width: 270px; margin-bottom: 15px;">
+	<img src="http://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-odin-live-sm.jpg" style="max-width: 270px; margin-bottom: 15px;">
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -13,10 +13,10 @@ rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Air
 </div>
 
 <div class="redes">
-    <a href="https://www.facebook.com/tabernaodinlive" target="_blank"><img src="https://i.imgur.com/fEIKr5v.png"></a>
-    <a href="https://www.instagram.com/tabernaodinlive" target="_blank"><img src="https://i.imgur.com/XIxtUlC.png"></a>
-    <a href="https://www.youtube.com/playlist?list=PL-Zj37MYV3-xq_yFmb21Bbb2TrZCpJLDb" target="_blank"><img src="https://i.imgur.com/kL3IO45.png"></a>
-   <a href="hhttps://open.spotify.com/playlist/3RQs6UYk9z7FmikNHRCRNF?si=JluJd4FESxiq6n65Cun1NA" target="_blank"><img src="https://i.imgur.com/8Bj4Fin.png"></a>
+    <a href="https://www.facebook.com/tabernaodinlive" target="_blank"><img src="http://taberna-odin-bucket.eu-central-1.linodeobjects.com/facebook.png"></a>
+    <a href="https://www.instagram.com/tabernaodinlive" target="_blank"><img src="http://taberna-odin-bucket.eu-central-1.linodeobjects.com/instagram.png"></a>
+    <a href="https://www.youtube.com/playlist?list=PL-Zj37MYV3-xq_yFmb21Bbb2TrZCpJLDb" target="_blank"><img src="http://taberna-odin-bucket.eu-central-1.linodeobjects.com/youtube.png"></a>
+   <a href="hhttps://open.spotify.com/playlist/3RQs6UYk9z7FmikNHRCRNF?si=JluJd4FESxiq6n65Cun1NA" target="_blank"><img src="http://taberna-odin-bucket.eu-central-1.linodeobjects.com/spotify.png"></a>
 </div>
 
 <style>
