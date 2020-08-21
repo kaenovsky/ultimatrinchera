@@ -4,9 +4,9 @@ body_classes: 'title-center title-h1h2'
 rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Aires'
 ---
 
-<!-- <div class="img-logo">
+<div class="img-logo">
 	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-odin-live-sm.jpg">
-</div> -->
+</div>
 
 <!-- OCULTAMOS VIDEO
 
@@ -41,9 +41,13 @@ rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Air
    <a href="hhttps://open.spotify.com/playlist/3RQs6UYk9z7FmikNHRCRNF?si=JluJd4FESxiq6n65Cun1NA" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/spotify.png"></a>
 </div>
 
+<!--
+
 <div class="img-logo">
 	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-odin-live-sm.jpg">
 </div>
+ 
+-->
 
 <style>
 
