@@ -8,6 +8,8 @@ rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Air
 	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-odin-live-sm.jpg">
 </div> -->
 
+<!-- OCULTAMOS VIDEO
+
 <div class="radio-player">
      <iframe width="560" height="315" 
              src="https://www.youtube.com/embed/ds0i1CBlC1s" 
@@ -16,6 +18,8 @@ rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Air
              allowfullscreen>
 	</iframe>
 </div>
+
+-->
 
 <div class="radio-player">    
 	<iframe src="https://server.ultimatrinchera.com/public/ultima_trinchera/embed"
