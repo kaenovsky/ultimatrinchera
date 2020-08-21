@@ -4,12 +4,30 @@ body_classes: 'title-center title-h1h2'
 rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Aires'
 ---
 
-<div style="display: flex; align-items: center; justify-content: center;">
-	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-odin-live-sm.jpg" style="max-width: 270px; margin-bottom: 15px;">
+<!-- <div class="img-logo">
+	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-odin-live-sm.jpg">
+</div> -->
+
+<div class="radio-player">
+     <iframe width="560" height="315" 
+             src="https://www.youtube.com/embed/ds0i1CBlC1s" 
+             frameborder="0" 
+             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+             allowfullscreen>
+	</iframe>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-<iframe src="https://server.ultimatrinchera.com/public/ultima_trinchera/embed" frameborder="0" allowtransparency="false" style="width: 400px; min-height: 150px; border: 0;"></iframe>
+<div class="radio-player">    
+	<iframe src="https://server.ultimatrinchera.com/public/ultima_trinchera/embed"
+            frameborder="0"
+            allowtransparency="false" 
+            style="width: 400px; min-height: 150px; border: 0;">
+    </iframe>
+</div>
+
+<div class="link-comprar-tickets">
+    <p class="title-comprar">21/9 Avernal en vivo! Venta de entradas en <a href="https://alpogo.com">alpogo.com</a><p>
+    <a class="btn-primary" href="https://alpogo.com/evento/avernal-vivo-3446" target="_blank">Comprar tickets</a>
 </div>
 
 <div class="redes">
@@ -19,21 +37,82 @@ rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Air
    <a href="hhttps://open.spotify.com/playlist/3RQs6UYk9z7FmikNHRCRNF?si=JluJd4FESxiq6n65Cun1NA" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/spotify.png"></a>
 </div>
 
+<div class="img-logo">
+	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-odin-live-sm.jpg">
+</div>
+
 <style>
 
     body {
         background: #282423;
     }
     
-    .radio-player-widget .now-playing-details .now-playing-title {
-    	color: #FFF;
+    .img-logo {
+        display: flex; 
+        align-items: center; 
+        justify-content: center;
     }
     
-    h1, h2, h3, h4 {
-    	color: #FFF;
+    .img-logo img {
+        max-width: 220px;
+        margin-bottom: 10px;    
+    }
+    
+    .radio-player {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+    
+    .link-comprar-tickets {
+        color: #FFF;
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;    
+    }
+    
+    a {
+        color: #FFF;
+        text-decoration: none;
+    }
+    
+    a:link {
+        color: #FFF; 
+        text-decoration: none;
+    }
+    
+    a:visited {
+        color: #FFF;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        color: #FFF;
+        text-decoration: none;
+    }
+    
+    a:active {
+        color: #FFF;
+        text-decoration: none;
+    }
+    
+    .btn-primary {
+        color: #FFF;
+        background-color: #5eb737;
+        border: 1px solid #5eb737;
+        border-radius: 4px;
+        padding: 4px 10px;
+    }
+    
+        .btn-primary:hover {
+        background-color: #3f911b;
+        border: 1px solid #3f911b;
     }
     
     .redes {
+        margin: 20px 0;
     	display: flex;
         flex-flow: row;
         justify-content: center;
@@ -44,6 +123,8 @@ rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Air
     	width: 24px;
         margin: 0 10px;
     }
+    
+    /* ocultamos elementos no necesarios de grav */
     
     #footer, #header {
      	display: none;   
