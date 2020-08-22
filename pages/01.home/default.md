@@ -30,7 +30,8 @@ rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Air
 </div>
 
 <div class="link-comprar-tickets">
-    <p class="title-comprar">21/9 Avernal en vivo! Venta de entradas en <a href="https://alpogo.com">alpogo.com</a><p>
+    <p>21/9 El Día de la Primavera Avernal VIVO x Taberna Odin Live<br>
+    Venta de entradas en <a href="https://alpogo.com">alpogo.com</a><p>
     <a class="btn-primary" href="https://alpogo.com/evento/avernal-vivo-3446" target="_blank">Comprar tickets</a>
 </div>
 
@@ -78,7 +79,8 @@ rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Air
         display: flex;
         flex-flow: column;
         align-items: center;
-        justify-content: center;    
+        justify-content: center; 
+        text-align: center;
     }
     
     a {
