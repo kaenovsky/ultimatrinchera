@@ -72,7 +72,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-bottom: 15px;
+        margin: 15px 0;
     }
     
     .link-comprar-tickets {
