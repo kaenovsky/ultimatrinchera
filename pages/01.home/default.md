@@ -2,6 +2,7 @@
 title: Inicio
 body_classes: 'title-center title-h1h2'
 rich_preview_description: 'Taberna Odin Live es la Radio del Metal en Buenos Aires'
+rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.com/open-graph-taberna-odin.png'
 ---
 
 <div class="img-logo">
