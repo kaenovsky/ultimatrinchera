@@ -31,7 +31,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 </div>
 
 <div class="link-comprar-tickets">
-    <p>21/9 Avernal VIVO x Taberna Odin Live. Venta de entradas en <a href="https://alpogo.com">alpogo.com</a><p>
+    <p class="txt-venta-tickets">21/9 Avernal VIVO x Taberna Odin Live. Venta de entradas en <a href="https://alpogo.com">alpogo.com</a><p>
     <a class="btn-primary" href="https://alpogo.com/evento/avernal-vivo-3446" target="_blank">Comprar tickets</a>
 </div>
 
@@ -52,10 +52,12 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 
 <style>
 
+    @import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@700&display=swap');
+    
     body {
         background: #000002;
     }
-    
+        
     .img-logo {
         display: flex; 
         align-items: center; 
@@ -63,7 +65,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
     }
     
     .img-logo img {
-        max-width: 290px;
+        max-width: 290px; 
     }
     
     .radio-player {
@@ -80,6 +82,10 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
         align-items: center;
         justify-content: center; 
         text-align: center;
+    }
+    
+    .txt-venta-tickets {
+        font-family: 'Red Rose', cursive;
     }
     
     a {
