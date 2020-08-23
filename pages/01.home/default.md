@@ -5,10 +5,6 @@ rich_preview_description: 'ROCK ON⚡️METAL ON'
 rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.com/open-graph-taberna-odin-live.jpg'
 ---
 
-<div class="img-logo">
-	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-odin-live-sm.jpg">
-</div>
-
 <!-- OCULTAMOS VIDEO
 
 <div class="radio-player">
@@ -21,6 +17,10 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 </div>
 
 -->
+
+<div class="img-logo">
+	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-taberna-odin-live.gif">
+</div>
 
 <div class="radio-player">    
 	<iframe src="https://server.ultimatrinchera.com/public/ultima_trinchera/embed"
@@ -46,7 +46,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 <!--
 
 <div class="img-logo">
-	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-odin-live-sm.jpg">
+	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-taberna-odin-live.gif">
 </div>
  
 -->
@@ -54,7 +54,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 <style>
 
     body {
-        background: #282423;
+        background: #000002;
     }
     
     .img-logo {
@@ -64,7 +64,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
     }
     
     .img-logo img {
-        max-width: 220px;
+        max-width: 290px;
         margin-bottom: 10px;    
     }
     
