@@ -55,7 +55,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
     @import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@700&display=swap');
     
     body {
-        background: #000002;
+        background: #0a0303;
     }
         
     .img-logo {
