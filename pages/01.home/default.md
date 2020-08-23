@@ -31,8 +31,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 </div>
 
 <div class="link-comprar-tickets">
-    <p>21/9 El Día de la Primavera Avernal VIVO x Taberna Odin Live<br>
-    Venta de entradas en <a href="https://alpogo.com">alpogo.com</a><p>
+    <p>21/9 Avernal VIVO x Taberna Odin Live. Venta de entradas en <a href="https://alpogo.com">alpogo.com</a><p>
     <a class="btn-primary" href="https://alpogo.com/evento/avernal-vivo-3446" target="_blank">Comprar tickets</a>
 </div>
 
