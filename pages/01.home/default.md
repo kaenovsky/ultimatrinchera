@@ -42,6 +42,12 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
    <a href="hhttps://open.spotify.com/playlist/3RQs6UYk9z7FmikNHRCRNF?si=JluJd4FESxiq6n65Cun1NA" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/spotify.png"></a>
 </div>
 
+<div class="podcast-episodes">
+    <iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Episodio-1-AVERNAL-eiiiv4" 
+            height="102px" width="400px" frameborder="0" scrolling="no">
+    </iframe>
+</div>
+
 <!--
 
 <div class="img-logo">
@@ -137,6 +143,12 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
     .redes img {
     	width: 24px;
         margin: 0 10px;
+    }
+    
+        .podcast-episodes {
+        display: flex;
+        align-items: center;
+        justify-content: center;    
     }
     
     /* ocultamos elementos no necesarios de grav */
