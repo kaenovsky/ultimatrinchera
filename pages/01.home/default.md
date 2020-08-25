@@ -19,7 +19,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 -->
 
 <div class="img-logo">
-	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-taberna-odin-live-v2.gif">
+	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-taberna-odin-live-v4.gif">
 </div>
 
 <div class="radio-player">    
