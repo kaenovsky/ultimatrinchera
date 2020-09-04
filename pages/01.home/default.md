@@ -19,7 +19,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 -->
 
 <div class="img-logo">
-	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-taberna-odin-live-v4.gif">
+	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-taberna-odin-live-v2.gif">
 </div>
 
 <div class="radio-player">    
@@ -42,9 +42,14 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
    <a href="hhttps://open.spotify.com/playlist/3RQs6UYk9z7FmikNHRCRNF?si=JluJd4FESxiq6n65Cun1NA" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/spotify.png"></a>
 </div>
 
-<div class="podcast-episodes">
+<div class="media-elements">
     <iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Episodio-1-AVERNAL-eiiiv4" 
             height="102px" width="400px" frameborder="0" scrolling="no">
+    </iframe>
+</div>
+
+<div class="media-elements">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yWBzZ4Se_lU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
 </div>
 
@@ -61,7 +66,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
     @import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@700&display=swap');
     
     body {
-        background: #030303;
+        background: #0a0303;
     }
         
     .img-logo {
@@ -145,7 +150,8 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
         margin: 0 10px;
     }
     
-        .podcast-episodes {
+    .media-elements {
+        margin-bottom: 20px;
         display: flex;
         align-items: center;
         justify-content: center;    
