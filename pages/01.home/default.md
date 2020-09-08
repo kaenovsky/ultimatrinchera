@@ -39,7 +39,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
     <a href="https://www.facebook.com/tabernaodinlive" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/facebook.png"></a>
     <a href="https://www.instagram.com/tabernaodinlive" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/instagram.png"></a>
     <a href="https://www.youtube.com/playlist?list=PL-Zj37MYV3-xq_yFmb21Bbb2TrZCpJLDb" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/youtube.png"></a>
-   <a href="hhttps://open.spotify.com/playlist/3RQs6UYk9z7FmikNHRCRNF?si=JluJd4FESxiq6n65Cun1NA" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/spotify.png"></a>
+   <a href="https://open.spotify.com/show/7zsXG6svLmS4sUBJrSBqRx?si=vYNqFX-pSFKfBcCO0FVaHQ" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/spotify.png"></a>
 </div>
 
 <div class="media-elements">
