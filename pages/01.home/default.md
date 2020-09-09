@@ -22,13 +22,13 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-taberna-odin-live-v2.gif">
 </div>
 
-<!-- <div class="radio-player">    
-	<iframe src="https://server.ultimatrinchera.com/public/ultima_trinchera/embed"
+<div class="radio-player">    
+	<iframe src="https://azura.tabernaodinlive.com/public/odinlive/embed"
             frameborder="0"
             allowtransparency="false" 
             style="width: 400px; min-height: 150px; border: 0;">
     </iframe>
-</div> -->
+</div>
 
 <div class="link-comprar-tickets">
     <p class="txt-venta-tickets">21/9 Avernal VIVO x Taberna Odin Live. Venta de entradas en <a href="https://alpogo.com">alpogo.com</a><p>
