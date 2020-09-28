@@ -5,19 +5,6 @@ rich_preview_description: 'ROCK ON⚡️METAL ON'
 rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.com/open-graph-taberna-odin-live.jpg'
 ---
 
-<!-- OCULTAMOS VIDEO
-
-<div class="radio-player">
-     <iframe width="560" height="315" 
-             src="https://www.youtube.com/embed/ds0i1CBlC1s" 
-             frameborder="0" 
-             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-             allowfullscreen>
-	</iframe>
-</div>
-
--->
-
 <div class="img-logo">
 	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-taberna-odin-live-v2.gif">
 </div>
@@ -31,7 +18,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 </div>
 
 <div class="link-comprar-tickets">
-    <p class="txt-venta-tickets">21/9 Avernal VIVO x Taberna Odin Live. Venta de entradas en <a href="https://alpogo.com">alpogo.com</a><p>
+    <p class="txt-venta-tickets">Avernal x Taberna Odin Live. Venta de entradas en <a href="https://alpogo.com">alpogo.com</a><p>
     <a class="btn-primary" href="https://alpogo.com/evento/avernal-vivo-3446" target="_blank">Comprar tickets</a>
 </div>
 
@@ -41,6 +28,12 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
     <a href="https://www.youtube.com/playlist?list=PL-Zj37MYV3-xq_yFmb21Bbb2TrZCpJLDb" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/youtube.png"></a>
    <a href="https://open.spotify.com/show/7zsXG6svLmS4sUBJrSBqRx?si=vYNqFX-pSFKfBcCO0FVaHQ" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/spotify.png"></a>
 </div>
+
+<!-- <div class="media-elements">
+	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-4-ek8mks"
+            height="102px" width="400px" frameborder="0" scrolling="no">
+	</iframe>
+</div> -->
 
 <div class="media-elements">
 	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-3-ejuc1o"
