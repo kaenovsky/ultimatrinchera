@@ -29,11 +29,11 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
    <a href="https://open.spotify.com/show/7zsXG6svLmS4sUBJrSBqRx?si=vYNqFX-pSFKfBcCO0FVaHQ" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/spotify.png"></a>
 </div>
 
-<!-- <div class="media-elements">
+<div class="media-elements">
 	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-4-ek8mks"
             height="102px" width="400px" frameborder="0" scrolling="no">
 	</iframe>
-</div> -->
+</div>
 
 <div class="media-elements">
 	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-3-ejuc1o"
