@@ -30,6 +30,12 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 </div>
 
 <div class="media-elements">
+	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-8-elid4n"
+            height="102px" width="400px" frameborder="0" scrolling="no">
+	</iframe>
+</div>
+
+<div class="media-elements">
 	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-7-el8jjp"
             height="102px" width="400px" frameborder="0" scrolling="no">
 	</iframe>
