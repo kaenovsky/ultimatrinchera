@@ -50,7 +50,8 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
     }
     
     .img-logo img {
-        max-width: 220px; 
+        max-width: 110px;
+        margin-bottom: 15px;
     }
     
     .radio-player {
