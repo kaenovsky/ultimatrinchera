@@ -17,11 +17,6 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
     </iframe>
 </div>
 
-<div class="link-comprar-tickets">
-    <p class="txt-venta-tickets">Avernal x Taberna Odin Live. Venta de entradas en <a href="https://alpogo.com">alpogo.com</a><p>
-    <a class="btn-primary" href="https://alpogo.com/evento/avernal-vivo-3446" target="_blank">Comprar tickets</a>
-</div>
-
 <div class="redes">
     <a href="https://www.facebook.com/tabernaodinlive" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/facebook.png"></a>
     <a href="https://www.instagram.com/tabernaodinlive" target="_blank"><img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/instagram.png"></a>
@@ -30,71 +25,15 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 </div>
 
 <div class="media-elements">
-	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-8-elid4n"
-            height="102px" width="400px" frameborder="0" scrolling="no">
-	</iframe>
-</div>
-
-<div class="media-elements">
-	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-7-el8jjp"
-            height="102px" width="400px" frameborder="0" scrolling="no">
-	</iframe>
-</div>
-
-<div class="media-elements">
-	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-6-ektr5e"
-            height="102px" width="400px" frameborder="0" scrolling="no">
-	</iframe>
-</div>
-
-<div class="media-elements">
-	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-5-ekjv18"
-            height="102px" width="400px" frameborder="0" scrolling="no">
-	</iframe>
-</div>
-
-<div class="media-elements">
-	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-4-ek8mks"
-            height="102px" width="400px" frameborder="0" scrolling="no">
-	</iframe>
-</div>
-
-<div class="media-elements">
-	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-3-ejuc1o"
-            height="102px" width="400px" frameborder="0" scrolling="no">
-	</iframe>
-</div>
-
-<div class="media-elements">
-	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-Captulo-2-ejj8sv"
-            height="102px" width="400px" frameborder="0" scrolling="no">
-	</iframe>
-</div>
-
-<div class="media-elements">
-	<iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Al-demonio-con-el-diablo-conduce-Gustavo-Olmedo-ej7toa" 
-            height="102px" width="400px" frameborder="0" scrolling="no">
-	</iframe>
-</div>
-
-<div class="media-elements">
-    <iframe src="https://anchor.fm/taberna-odin-live/embed/episodes/Episodio-1-AVERNAL-eiiiv4" 
-            height="102px" width="400px" frameborder="0" scrolling="no">
+	<iframe src="https://open.spotify.com/embed-podcast/episode/6g0N8lJQqUYup6I0kNx3uB" 
+            width="90%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media">
     </iframe>
 </div>
 
 <div class="media-elements">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/UzRhvMDRGfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
+	<a href="https://open.spotify.com/show/7zsXG6svLmS4sUBJrSBqRx?si=3FJoJtMMT1qjUebUVoUQww"
+       target="_blank" class="btn-primary">Escuchá todos los episodios en Spotify</a>
 </div>
-
-<!--
-
-<div class="img-logo">
-	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-taberna-odin-live.gif">
-</div>
- 
--->
 
 <style>
 
