@@ -102,15 +102,15 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
     
     .btn-primary {
         color: #FFF;
-        background-color: #5eb737;
-        border: 1px solid #5eb737;
+        background-color: #242F32;
+        border: 1px solid #242F32;
         border-radius: 4px;
         padding: 4px 10px;
     }
     
         .btn-primary:hover {
-        background-color: #3f911b;
-        border: 1px solid #3f911b;
+        background-color: #2d3a3d;
+        border: 1px solid #2d3a3d;
     }
     
     .redes {
