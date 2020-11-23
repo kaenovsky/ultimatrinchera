@@ -25,7 +25,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 </div>
 
 <div class="media-elements">
-	<iframe src="https://open.spotify.com/embed-podcast/episode/1oawzIPIsjk7Bx8Gl9kLKN" 
+	<iframe src="https://open.spotify.com/embed-podcast/episode/4Q8padropmMrcpVzIHeXnq" 
             width="90%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media">
     </iframe>
 </div>
