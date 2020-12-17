@@ -9,7 +9,7 @@ rich_preview_thumbnail: 'https://taberna-odin-bucket.eu-central-1.linodeobjects.
 	<img src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/logo-taberna-odin-live-v2.gif">
 </div>
 
-<!-- <iframe width="90%" height="315" src="https://www.youtube.com/embed/UzRhvMDRGfc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/4vs2p7Rl6T4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="radio-player">    
 	<iframe src="https://azura.tabernaodinlive.com/public/odinlive/embed"
